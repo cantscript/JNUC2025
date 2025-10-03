@@ -1,8 +1,8 @@
-# Mastering Blueprints: Level Up Your Jamf School Deployment
-
 <p align="center">
-	<img width="512" alt="JNUC2025Header" src="https://github.com/cantscript/JNUC2025/blob/main/images/JNUCHeader.jpeg">
+	<img width="1024" alt="JNUC2025Header" src="https://github.com/cantscript/JNUC2025/blob/main/images/JNUCHeader.jpeg">
 </p>
+
+# Mastering Blueprints: Level Up Your Jamf School Deployment
 
 ---
 Welcome to the resources page for the JNUC 2025 `session 1069` - **Blueprints: Level Up Your Jamf School Deployment**
