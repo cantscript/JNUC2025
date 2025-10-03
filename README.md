@@ -1,7 +1,7 @@
 # Mastering Blueprints: Level Up Your Jamf School Deployment
 
 <p align="center">
-	<img width="512" alt="CantScript Logo" src="https://github.com/cantscript/AxM_API/blob/main/CantScript_Full_DotComV7.png">
+	<img width="512" alt="JNUC2025Header" src="https://github.com/cantscript/JNUC2025/blob/main/images/JNUCHeader.jpeg">
 </p>
 
 ---
